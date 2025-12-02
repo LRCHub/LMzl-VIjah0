@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "大切なもの",
+  "base_artist": "ロードオブメジャー",
+  "createdAt": "2025-12-02T17:06:33.952668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/01_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "ロｰドオブメジャｰ",
+      "has_synced": true,
+      "path": "select/02_大切なもの_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/03_大切なもの_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "三澤康広",
+      "has_synced": false,
+      "path": "select/04_大切なもの_三澤康広.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "Misawa, Yasuhiro",
+      "has_synced": false,
+      "path": "select/05_大切なもの_Misawa,_Yasuhiro.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "ロードオブメジャー",
+      "has_synced": true,
+      "path": "select/06_大切なもの_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/07_大切なもの_AI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "Road Of Major",
+      "has_synced": true,
+      "path": "select/08_大切なもの_Road_Of_Major.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "Road Of Major",
+      "has_synced": true,
+      "path": "select/09_大切なもの_Road_Of_Major.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "AI",
+      "has_synced": false,
+      "path": "select/10_大切なもの_AI.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "大切なもの",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/11_大切なもの_堀江由衣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_01_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_02_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_03_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_04_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_05_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_06_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_07_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_08_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_09_大切なもの_ROAD_OF_MAJOR.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "大切なもの",
+      "artist": "ROAD OF MAJOR",
+      "has_synced": false,
+      "path": "select/pl_10_大切なもの_ROAD_OF_MAJOR.txt"
+    }
+  ]
+}
